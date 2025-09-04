@@ -6,6 +6,7 @@ The project involves **EDA, feature engineering, model building, hyperparameter 
 ---
 
 ![Comparision](sms-spam-class/accuracy.png)
+![UI](sms-spam-class/spam.png)
 
 
 ## 🚀 Features  
